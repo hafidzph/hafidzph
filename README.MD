@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Hafidz Putra Herlyansyah</h1>
+<h3 align="center">An informatics engineering student, passionate frontend developer</h3>
+
 # 💫 About Me:
 🔭 Like to learn something new<br>🌱 I’m currently learning Android<br>💬 Ask me about anything
 
