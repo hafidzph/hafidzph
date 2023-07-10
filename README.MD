@@ -2,7 +2,7 @@
 <h3 align="center">An informatics engineering student, passionate frontend developer</h3>
 
 # 💫 About Me:
-🔭 Like to learn something new<br>🌱 I’m currently learning Android<br>💬 Ask me about anything
+🔭 Like to learn something new<br>🌱 I’m currently learning Android and React<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
