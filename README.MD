@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafidz Putra Herlyansyah</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [K-Etik](k-etik.vercel.app)
-
-- 🌱 I’m currently learning **Next JS**
-
 - 📫 How to reach me **hafidzph1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
