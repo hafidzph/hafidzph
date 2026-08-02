@@ -87,20 +87,6 @@ const hafidz = {
 
 <br/>
 
-<!-- ═══════════════════ TROPHY ═══════════════════
-     Dinonaktifkan: github-profile-trophy.vercel.app mengembalikan HTTP 402
-     (kuota Vercel habis) dan belum ada mirror yang hidup. Kalau layanannya
-     sudah pulih, cukup hapus tanda komentar di blok bawah ini.
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafidzph&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
-<br/>
-═══════════════════════════════════════════════ -->
-
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## 🤝 Connect with me
 
