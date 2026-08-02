@@ -48,12 +48,12 @@ const hafidz = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hafidzph&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafidzph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hafidzph&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hafidzph&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=hafidzph&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+<img src="https://streak-stats.demolab.com?user=hafidzph&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&cache_bust=1" />
 
 <br/><br/>
 
@@ -87,7 +87,11 @@ const hafidz = {
 
 <br/>
 
-<!-- ═══════════════════ TROPHY ═══════════════════ -->
+<!-- ═══════════════════ TROPHY ═══════════════════
+     Dinonaktifkan: github-profile-trophy.vercel.app mengembalikan HTTP 402
+     (kuota Vercel habis) dan belum ada mirror yang hidup. Kalau layanannya
+     sudah pulih, cukup hapus tanda komentar di blok bawah ini.
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -95,6 +99,7 @@ const hafidz = {
 </div>
 
 <br/>
+═══════════════════════════════════════════════ -->
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## 🤝 Connect with me
